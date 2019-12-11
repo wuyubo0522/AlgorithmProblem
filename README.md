@@ -3,3 +3,6 @@
 
 #### 第一个算法，从1累加到100的结果
 在simple包中，AddOneToHundred类。
+
+### 线性结构-数组的实现
+在array中，TestArray、TestOpArray、TestOpArray2类。
