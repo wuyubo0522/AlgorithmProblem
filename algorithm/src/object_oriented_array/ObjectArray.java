@@ -1,4 +1,4 @@
-package Object_oriented_array;
+package object_oriented_array;
 
 import java.util.Arrays;
 
